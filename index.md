@@ -1,11 +1,11 @@
 
 ```markdown
 Head Researcher
-[Dr. Daniel Pinto]()
+[Dr. Daniel Pinto](https://behta.github.io/Dr.-Daniel-Pinto/)
 
 
 Research Coordinator
-[Ms. Marissa Lovell]()
+[Ms. Marissa Lovell](https://behta.github.io/Ms.-Marissa-Lovell/)
 
 Student Research Assistants
 
