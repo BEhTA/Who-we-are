@@ -1,5 +1,4 @@
 
-```markdown
 Head Researcher
 [Dr. Daniel Pinto](https://behta.github.io/Dr.-Daniel-Pinto/)
 
@@ -7,6 +6,8 @@ Head Researcher
 Research Coordinator
 [Ms. Marissa Lovell](https://behta.github.io/Ms.-Marissa-Lovell/)
 
+
+```markdown
 Student Research Assistants
 
 Megan Dorsey
