@@ -1,4 +1,3 @@
-```markdown
 *Head Researcher*
 [Dr. Daniel Pinto]()
 
@@ -18,4 +17,4 @@ Chris Voirin
 
 
 [Link](url) and ![Image](src)
-```
+
