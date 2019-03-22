@@ -1,5 +1,12 @@
 ```markdown
-BEhTA stands for Behavior, Engagement, and Health Technology Assessment. Here at our lab, our research is focused around these aspects. We utilize a variety of research methods, from clinical studies including direct participant communication, qualitiative research, survey-based research, large dataset research, and data synthesis. We also collaborate with the Milwaukee and surrounding area.
+BEhTA stands for Behavior, Engagement, and Health 
+Technology Assessment. Here at our lab, our research
+is focused around these aspects. We utilize a variety
+of research methods, from clinical studies including
+direct participant communication, qualitiative research,
+survey-based research, large dataset research, and data
+synthesis. We also collaborate with the Milwaukee and 
+surrounding area.
 ```
 
 
